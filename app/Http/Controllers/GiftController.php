@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class GiftController extends Controller
 {
     // Здесь будут твои буквы – просто заглушка
-    private string $secretCode = 'ABCDE-FGHIJ-KLMNO-PQRST-UVWXY';
+    private string $secretCode = 'HFGYT-5GHH7-GG54Y-YRGSF-GFF4G';
 
     public function code()
     {
